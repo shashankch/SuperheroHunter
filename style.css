@@ -1,0 +1,18 @@
+/* access token: 102871238164987 */
+
+/* common styling for index,detail,favouites page. */
+body {
+  background-image: url("./poster.jpg");
+  background-size: cover;
+  opacity: 0.9;
+}
+
+/* styling for suggestions div */
+#suggestions {
+  overflow-y: scroll;
+  height: 35vw;
+}
+
+#suggestions::-webkit-scrollbar {
+  display: none;
+}
