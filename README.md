@@ -1,5 +1,6 @@
 One stop application for all comic superhero details.
 This application uses SuperHero API :
+
 https://superheroapi.com/?ref=apilist.fun
 
 Functionalities:
