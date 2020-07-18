@@ -8,7 +8,7 @@ https://superheroapi.com/?ref=apilist.fun
 
 <h2>Home Page:</h2>
 <ul>
-<li>Search superheroes with autocomplete search feature.</li>
+<li>Search superheroes with search suggestion feature.</li>
 <li>Add your superhero to your favourite superhero list.</li>
 <li>Select superhero from the list to get detailed Info.</li>
 </ul>
